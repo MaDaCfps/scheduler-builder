@@ -1,0 +1,4 @@
+[
+  { "name": "Morning", "start": "09:00", "end": "13:00" },
+  { "name": "Evening", "start": "13:00", "end": "17:00" }
+]
